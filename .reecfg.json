@@ -1,0 +1,10 @@
+{
+  "name": "reejs-app",
+  "version": "0.0.1",
+  "features": [
+    "react",
+    "tailwind",
+    "api",
+    "static"
+  ]
+}

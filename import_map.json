@@ -1,0 +1,25 @@
+{
+  "imports": {
+    "react": "https://esm.sh/preact@10.13.2/compat",
+    "render": "https://esm.sh/preact-render-to-string@6.0.2",
+    "debug": "https://esm.sh/preact@10.13.2/debug",
+    "@twind/core": "https://cdn.jsdelivr.net/npm/@twind/core/+esm",
+    "@twind/preset-autoprefix": "https://cdn.jsdelivr.net/npm/@twind/preset-autoprefix/+esm",
+    "@twind/preset-tailwind": "https://cdn.jsdelivr.net/npm/@twind/preset-tailwind/+esm",
+    "@twind/with-react": "https://cdn.jsdelivr.net/npm/@twind/with-react/+esm",
+    "@twind/with-react/inline": "https://cdn.jsdelivr.net/npm/@twind/with-react/inline/+esm",
+    "@hono/node-server": "https://esm.sh/@hono/node-server@1.0.2?bundle",
+    "hono": "https://esm.sh/hono@3.1.8?bundle",
+    "@hono/serve-static": "https://esm.sh/@hono/node-server@1.0.2/serve-static?bundle",
+    "hono/compress": "https://esm.sh/hono@3.1.8/compress?bundle"
+  },
+  "browserImports": {
+    "debug": "https://esm.sh/preact@10.13.2/debug",
+    "react": "https://esm.sh/preact@10.13.2/compat",
+    "@twind/core": "https://cdn.jsdelivr.net/npm/@twind/core/+esm",
+    "@twind/preset-autoprefix": "https://cdn.jsdelivr.net/npm/@twind/preset-autoprefix/+esm",
+    "@twind/preset-tailwind": "https://cdn.jsdelivr.net/npm/@twind/preset-tailwind/+esm",
+    "@twind/with-react": "https://cdn.jsdelivr.net/npm/@twind/with-react/+esm",
+    "@twind/with-react/inline": "https://cdn.jsdelivr.net/npm/@twind/with-react/inline/+esm"
+  }
+}
